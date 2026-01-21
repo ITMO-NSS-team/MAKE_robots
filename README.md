@@ -4,6 +4,8 @@ This work implements the EPDE+SAGE methodology for discovering interpretable sto
 
 </div> Microscopic: Individual agent dynamics via ODEs with interaction forces 
 
+
 </div> Mesoscopic: Collective order parameters via coupled SDEs 
+
 
 </div> Macroscopic: Continuum field evolution via SPDEs 
